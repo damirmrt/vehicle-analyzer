@@ -24,4 +24,4 @@ git clone https://github.com/yourusername/vehicle-analyzer.git
 cd vehicle-analyzer
 poetry install
 
-running poetry/python3 run uvicorn main:app --reload
+running poetry run uvicorn main:app --reload
