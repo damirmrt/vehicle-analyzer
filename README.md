@@ -8,13 +8,7 @@ A textual description summarizing the content of the image.
 
 Response has following structure
 
-{
-"total_cars": 10,
-"red_cars": 3,
-"description": "The image depicts a busy urban street with
-  several vehicles, including three trees, pedestrians,
-   amidst tall buildings."
-}
+<pre> ```json { "total_cars": 10, "red_cars": 3, "description": "The image depicts a busy urban street with several vehicles, including three trees, pedestrians, amidst tall buildings." } ``` </pre>
 
 
 ## Setup
